@@ -1,1 +1,810 @@
-{"nom_dept":{"01":"Ain","07":"Ard\u00e8che","26":"Dr\u00f4me","38":"Is\u00e8re","42":"Loire","43":"Haute-Loire","63":"Puy-de-D\u00f4me","65":"Hautes-Pyr\u00e9n\u00e9es","66":"Pyr\u00e9n\u00e9es-Orientales","67":"Bas-Rhin","56":"Morbihan","69":"Rh\u00f4ne","03":"Allier","15":"Cantal","72":"Sarthe","64":"Pyr\u00e9n\u00e9es-Atlantiques","22":"C\u00f4tes-d'Armor","29":"Finist\u00e8re","35":"Ille-et-Vilaine","70":"Haute-Sa\u00f4ne","71":"Sa\u00f4ne-et-Loire","53":"Mayenne","77":"Seine-et-Marne","73":"Savoie","68":"Haut-Rhin","09":"Ari\u00e8ge","11":"Aude","12":"Aveyron","30":"Gard","31":"Haute-Garonne","34":"H\u00e9rault","74":"Haute-Savoie","02":"Aisne","59":"Nord","60":"Oise","61":"Orne","62":"Pas-de-Calais","08":"Ardennes","10":"Aube","52":"Haute-Marne","50":"Manche","58":"Ni\u00e8vre","04":"Alpes-de-Haute-Provence","05":"Hautes-Alpes","06":"Alpes-Maritimes","13":"Bouches-du-Rh\u00f4ne","51":"Marne","44":"Loire-Atlantique","46":"Lot","54":"Meurthe-et-Moselle","55":"Meuse","57":"Moselle","18":"Cher","36":"Indre","37":"Indre-et-Loire","41":"Loir-et-Cher","45":"Loiret","49":"Maine-et-Loire","14":"Calvados","76":"Seine-Maritime","27":"Eure","28":"Eure-et-Loir","75":"Paris","78":"Yvelines","79":"Deux-S\u00e8vres","80":"Somme","81":"Tarn","82":"Tarn-et-Garonne","83":"Var","84":"Vaucluse","85":"Vend\u00e9e","86":"Vienne","87":"Haute-Vienne","88":"Vosges","89":"Yonne","90":"Territoire de Belfort","91":"Essonne","92":"Hauts-de-Seine","93":"Seine-Saint-Denis","94":"Val-de-Marne","95":"Val-d'Oise","16":"Charente","17":"Charente-Maritime","19":"Corr\u00e8ze","23":"Creuse","24":"Dordogne","32":"Gers","33":"Gironde","40":"Landes","47":"Lot-et-Garonne","48":"Loz\u00e8re","21":"C\u00f4te-d'Or","25":"Doubs","39":"Jura","2A":"Corse-du-Sud","2B":"Haute-Corse","971":"Guadeloupe","972":"Martinique","973":"Guyane","974":"La R\u00e9union","976":"Mayotte"},"code_nouvelle_region":{"01":"84","07":"84","26":"84","38":"84","42":"84","43":"84","63":"84","65":"84","66":"84","67":"84","56":"53","69":"53","03":"84","15":"84","72":"84","64":"76","22":"53","29":"53","35":"53","70":"53","71":"53","53":"52","77":"11","73":"84","68":"93","09":"76","11":"76","12":"76","30":"76","31":"76","34":"76","74":"11","02":"32","59":"32","60":"32","61":"32","62":"32","08":"44","10":"44","52":"44","50":"28","58":"28","04":"93","05":"93","06":"93","13":"93","51":"44","44":"52","46":"52","54":"44","55":"44","57":"44","18":"24","36":"24","37":"24","41":"24","45":"24","49":"24","14":"28","76":"53","27":"28","28":"28","75":"28","78":"11","79":"11","80":"11","81":"11","82":"11","83":"11","84":"11","85":"11","86":"11","87":"11","88":"11","89":"11","90":"11","91":"11","92":"11","93":"11","94":"11","95":"11","16":"75","17":"75","19":"75","23":"75","24":"75","32":"75","33":"75","40":"75","47":"75","48":"75","21":"27","25":"27","39":"27","2A":"94","2B":"94","971":"01","972":"02","973":"03","974":"04","976":"06"},"code_ancienne_region":{"01":"82","07":"82","26":"82","38":"82","42":"82","43":"82","63":"82","65":"82","66":"82","67":"82","56":"82","69":"82","03":"83","15":"83","72":"53","64":"53","22":"53","29":"53","35":"53","70":"53","71":"53","53":"53","77":"53","73":"73","68":"73","09":"73","11":"73","12":"73","30":"73","31":"73","34":"73","74":"73","02":"31","59":"21","60":"21","61":"21","62":"21","08":"21","10":"21","52":"21","50":"21","58":"21","04":"93","05":"93","06":"93","13":"93","51":"52","44":"52","46":"52","54":"24","55":"24","57":"24","18":"24","36":"24","37":"24","41":"24","45":"24","49":"24","14":"25","76":"25","27":"28","28":"28","75":"11","78":"11","79":"11","80":"11","81":"11","82":"11","83":"11","84":"11","85":"11","86":"11","87":"11","88":"11","89":"11","90":"11","91":"11","92":"11","93":"11","94":"11","95":"11","16":"75","17":"75","19":"75","23":"75","24":"75","32":"75","33":"75","40":"75","47":"75","48":"75","21":"26","25":"26","39":"26","2A":"94","2B":"94","971":"01","972":"02","973":"03","974":"04","976":"06"},"nom_nouvelle_region":{"01":"AUVERGNE-RH\u00d4NE-ALPES","07":"AUVERGNE-RH\u00d4NE-ALPES","26":"AUVERGNE-RH\u00d4NE-ALPES","38":"AUVERGNE-RH\u00d4NE-ALPES","42":"AUVERGNE-RH\u00d4NE-ALPES","43":"AUVERGNE-RH\u00d4NE-ALPES","63":"AUVERGNE-RH\u00d4NE-ALPES","65":"AUVERGNE-RH\u00d4NE-ALPES","66":"AUVERGNE-RH\u00d4NE-ALPES","67":"AUVERGNE-RH\u00d4NE-ALPES","56":"BRETAGNE","69":"BRETAGNE","03":"AUVERGNE-RH\u00d4NE-ALPES","15":"AUVERGNE-RH\u00d4NE-ALPES","72":"AUVERGNE-RH\u00d4NE-ALPES","64":"OCCITANIE","22":"BRETAGNE","29":"BRETAGNE","35":"BRETAGNE","70":"BRETAGNE","71":"BRETAGNE","53":"PAYS-DE-LA-LOIRE","77":"ILE-DE-FRANCE","73":"AUVERGNE-RH\u00d4NE-ALPES","68":"PROVENCE-ALPES-COTE-D'AZUR","09":"OCCITANIE","11":"OCCITANIE","12":"OCCITANIE","30":"OCCITANIE","31":"OCCITANIE","34":"OCCITANIE","74":"ILE-DE-FRANCE","02":"HAUTS-DE-FRANCE","59":"HAUTS-DE-FRANCE","60":"HAUTS-DE-FRANCE","61":"HAUTS-DE-FRANCE","62":"HAUTS-DE-FRANCE","08":"GRAND EST","10":"GRAND EST","52":"GRAND EST","50":"NORMANDIE","58":"NORMANDIE","04":"PROVENCE-ALPES-COTE-D'AZUR","05":"PROVENCE-ALPES-COTE-D'AZUR","06":"PROVENCE-ALPES-COTE-D'AZUR","13":"PROVENCE-ALPES-COTE-D'AZUR","51":"GRAND EST","44":"PAYS-DE-LA-LOIRE","46":"PAYS-DE-LA-LOIRE","54":"GRAND EST","55":"GRAND EST","57":"GRAND EST","18":"CENTRE-VAL DE LOIRE","36":"CENTRE-VAL DE LOIRE","37":"CENTRE-VAL DE LOIRE","41":"CENTRE-VAL DE LOIRE","45":"CENTRE-VAL DE LOIRE","49":"CENTRE-VAL DE LOIRE","14":"NORMANDIE","76":"BRETAGNE","27":"NORMANDIE","28":"NORMANDIE","75":"NORMANDIE","78":"ILE-DE-FRANCE","79":"ILE-DE-FRANCE","80":"ILE-DE-FRANCE","81":"ILE-DE-FRANCE","82":"ILE-DE-FRANCE","83":"ILE-DE-FRANCE","84":"ILE-DE-FRANCE","85":"ILE-DE-FRANCE","86":"ILE-DE-FRANCE","87":"ILE-DE-FRANCE","88":"ILE-DE-FRANCE","89":"ILE-DE-FRANCE","90":"ILE-DE-FRANCE","91":"ILE-DE-FRANCE","92":"ILE-DE-FRANCE","93":"ILE-DE-FRANCE","94":"ILE-DE-FRANCE","95":"ILE-DE-FRANCE","16":"NOUVELLE-AQUITAINE","17":"NOUVELLE-AQUITAINE","19":"NOUVELLE-AQUITAINE","23":"NOUVELLE-AQUITAINE","24":"NOUVELLE-AQUITAINE","32":"NOUVELLE-AQUITAINE","33":"NOUVELLE-AQUITAINE","40":"NOUVELLE-AQUITAINE","47":"NOUVELLE-AQUITAINE","48":"NOUVELLE-AQUITAINE","21":"BOURGOGNE-FRANCHE-COMT\u00c9","25":"BOURGOGNE-FRANCHE-COMT\u00c9","39":"BOURGOGNE-FRANCHE-COMT\u00c9","2A":"CORSE","2B":"CORSE","971":"GUADELOUPE","972":"MARTINIQUE","973":"GUYANE","974":"REUNION","976":"MAYOTTE"},"nom_ancienne_region":{"01":"RHONE-ALPES","07":"RHONE-ALPES","26":"RHONE-ALPES","38":"RHONE-ALPES","42":"RHONE-ALPES","43":"RHONE-ALPES","63":"RHONE-ALPES","65":"RHONE-ALPES","66":"RHONE-ALPES","67":"RHONE-ALPES","56":"RHONE-ALPES","69":"RHONE-ALPES","03":"AUVERGNE","15":"AUVERGNE","72":"BRETAGNE","64":"BRETAGNE","22":"BRETAGNE","29":"BRETAGNE","35":"BRETAGNE","70":"BRETAGNE","71":"BRETAGNE","53":"BRETAGNE","77":"BRETAGNE","73":"MIDI-PYRENEES","68":"MIDI-PYRENEES","09":"MIDI-PYRENEES","11":"MIDI-PYRENEES","12":"MIDI-PYRENEES","30":"MIDI-PYRENEES","31":"MIDI-PYRENEES","34":"MIDI-PYRENEES","74":"MIDI-PYRENEES","02":"NORD-PAS-DE-CALAIS","59":"CHAMPAGNE-ARDENNE","60":"CHAMPAGNE-ARDENNE","61":"CHAMPAGNE-ARDENNE","62":"CHAMPAGNE-ARDENNE","08":"CHAMPAGNE-ARDENNE","10":"CHAMPAGNE-ARDENNE","52":"CHAMPAGNE-ARDENNE","50":"CHAMPAGNE-ARDENNE","58":"CHAMPAGNE-ARDENNE","04":"PROVENCE-ALPES-COTE-D'AZUR","05":"PROVENCE-ALPES-COTE-D'AZUR","06":"PROVENCE-ALPES-COTE-D'AZUR","13":"PROVENCE-ALPES-COTE-D'AZUR","51":"PAYS-DE-LA-LOIRE","44":"PAYS-DE-LA-LOIRE","46":"PAYS-DE-LA-LOIRE","54":"CENTRE-VAL DE LOIRE","55":"CENTRE-VAL DE LOIRE","57":"CENTRE-VAL DE LOIRE","18":"CENTRE-VAL DE LOIRE","36":"CENTRE-VAL DE LOIRE","37":"CENTRE-VAL DE LOIRE","41":"CENTRE-VAL DE LOIRE","45":"CENTRE-VAL DE LOIRE","49":"CENTRE-VAL DE LOIRE","14":"BASSE-NORMANDIE","76":"BASSE-NORMANDIE","27":"NORMANDIE","28":"NORMANDIE","75":"ILE-DE-FRANCE","78":"ILE-DE-FRANCE","79":"ILE-DE-FRANCE","80":"ILE-DE-FRANCE","81":"ILE-DE-FRANCE","82":"ILE-DE-FRANCE","83":"ILE-DE-FRANCE","84":"ILE-DE-FRANCE","85":"ILE-DE-FRANCE","86":"ILE-DE-FRANCE","87":"ILE-DE-FRANCE","88":"ILE-DE-FRANCE","89":"ILE-DE-FRANCE","90":"ILE-DE-FRANCE","91":"ILE-DE-FRANCE","92":"ILE-DE-FRANCE","93":"ILE-DE-FRANCE","94":"ILE-DE-FRANCE","95":"ILE-DE-FRANCE","16":"NOUVELLE-AQUITAINE","17":"NOUVELLE-AQUITAINE","19":"NOUVELLE-AQUITAINE","23":"NOUVELLE-AQUITAINE","24":"NOUVELLE-AQUITAINE","32":"NOUVELLE-AQUITAINE","33":"NOUVELLE-AQUITAINE","40":"NOUVELLE-AQUITAINE","47":"NOUVELLE-AQUITAINE","48":"NOUVELLE-AQUITAINE","21":"BOURGOGNE","25":"BOURGOGNE","39":"BOURGOGNE","2A":"CORSE","2B":"CORSE","971":"GUADELOUPE","972":"MARTINIQUE","973":"GUYANE","974":"REUNION","976":"MAYOTTE"}}
+[
+    {
+        "INSEE_DEP": "01",
+        "NOM_DEP": "AIN",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "02",
+        "NOM_DEP": "AISNE",
+        "INSEE_OLD_REG": "22",
+        "INSEE_REG": "32",
+        "NOM_OLD_REG": "Picardie",
+        "NOM_REG": "Hauts-de-France"
+    },
+    {
+        "INSEE_DEP": "03",
+        "NOM_DEP": "ALLIER",
+        "INSEE_OLD_REG": "83",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Auvergne",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "04",
+        "NOM_DEP": "ALPES-DE-HAUTE-PROVENCE",
+        "INSEE_OLD_REG": "93",
+        "INSEE_REG": "93",
+        "NOM_OLD_REG": "Provence-Alpes-Côte d'Azur",
+        "NOM_REG": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "INSEE_DEP": "05",
+        "NOM_DEP": "HAUTES-ALPES",
+        "INSEE_OLD_REG": "93",
+        "INSEE_REG": "93",
+        "NOM_OLD_REG": "Provence-Alpes-Côte d'Azur",
+        "NOM_REG": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "INSEE_DEP": "06",
+        "NOM_DEP": "ALPES-MARITIMES",
+        "INSEE_OLD_REG": "93",
+        "INSEE_REG": "93",
+        "NOM_OLD_REG": "Provence-Alpes-Côte d'Azur",
+        "NOM_REG": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "INSEE_DEP": "07",
+        "NOM_DEP": "ARDECHE",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "08",
+        "NOM_DEP": "ARDENNES",
+        "INSEE_OLD_REG": "21",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Champagne-Ardenne",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "09",
+        "NOM_DEP": "ARIEGE",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "10",
+        "NOM_DEP": "AUBE",
+        "INSEE_OLD_REG": "21",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Champagne-Ardenne",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "11",
+        "NOM_DEP": "AUDE",
+        "INSEE_OLD_REG": "91",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Languedoc-Roussillon",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "12",
+        "NOM_DEP": "AVEYRON",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "13",
+        "NOM_DEP": "BOUCHES-DU-RHONE",
+        "INSEE_OLD_REG": "93",
+        "INSEE_REG": "93",
+        "NOM_OLD_REG": "Provence-Alpes-Côte d'Azur",
+        "NOM_REG": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "INSEE_DEP": "14",
+        "NOM_DEP": "CALVADOS",
+        "INSEE_OLD_REG": "25",
+        "INSEE_REG": "28",
+        "NOM_OLD_REG": "Basse-Normandie",
+        "NOM_REG": "Normandie"
+    },
+    {
+        "INSEE_DEP": "15",
+        "NOM_DEP": "CANTAL",
+        "INSEE_OLD_REG": "83",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Auvergne",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "16",
+        "NOM_DEP": "CHARENTE",
+        "INSEE_OLD_REG": "54",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Poitou-Charentes",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "17",
+        "NOM_DEP": "CHARENTE-MARITIME",
+        "INSEE_OLD_REG": "54",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Poitou-Charentes",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "18",
+        "NOM_DEP": "CHER",
+        "INSEE_OLD_REG": "24",
+        "INSEE_REG": "24",
+        "NOM_OLD_REG": "Centre",
+        "NOM_REG": "Centre-Val de Loire"
+    },
+    {
+        "INSEE_DEP": "19",
+        "NOM_DEP": "CORREZE",
+        "INSEE_OLD_REG": "74",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Limousin",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "21",
+        "NOM_DEP": "COTE-D'OR",
+        "INSEE_OLD_REG": "26",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Bourgogne",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "22",
+        "NOM_DEP": "COTES-D'ARMOR",
+        "INSEE_OLD_REG": "53",
+        "INSEE_REG": "53",
+        "NOM_OLD_REG": "Bretagne",
+        "NOM_REG": "Bretagne"
+    },
+    {
+        "INSEE_DEP": "23",
+        "NOM_DEP": "CREUSE",
+        "INSEE_OLD_REG": "74",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Limousin",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "24",
+        "NOM_DEP": "DORDOGNE",
+        "INSEE_OLD_REG": "72",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Aquitaine",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "25",
+        "NOM_DEP": "DOUBS",
+        "INSEE_OLD_REG": "43",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Franche-Comté",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "26",
+        "NOM_DEP": "DROME",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "27",
+        "NOM_DEP": "EURE",
+        "INSEE_OLD_REG": "23",
+        "INSEE_REG": "28",
+        "NOM_OLD_REG": "Haute-Normandie",
+        "NOM_REG": "Normandie"
+    },
+    {
+        "INSEE_DEP": "28",
+        "NOM_DEP": "EURE-ET-LOIR",
+        "INSEE_OLD_REG": "24",
+        "INSEE_REG": "24",
+        "NOM_OLD_REG": "Centre",
+        "NOM_REG": "Centre-Val de Loire"
+    },
+    {
+        "INSEE_DEP": "29",
+        "NOM_DEP": "FINISTERE",
+        "INSEE_OLD_REG": "53",
+        "INSEE_REG": "53",
+        "NOM_OLD_REG": "Bretagne",
+        "NOM_REG": "Bretagne"
+    },
+    {
+        "INSEE_DEP": "2A",
+        "NOM_DEP": "CORSE-DU-SUD",
+        "INSEE_OLD_REG": "94",
+        "INSEE_REG": "94",
+        "NOM_OLD_REG": "Corse",
+        "NOM_REG": "Corse"
+    },
+    {
+        "INSEE_DEP": "2B",
+        "NOM_DEP": "HAUTE-CORSE",
+        "INSEE_OLD_REG": "94",
+        "INSEE_REG": "94",
+        "NOM_OLD_REG": "Corse",
+        "NOM_REG": "Corse"
+    },
+    {
+        "INSEE_DEP": "30",
+        "NOM_DEP": "GARD",
+        "INSEE_OLD_REG": "91",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Languedoc-Roussillon",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "31",
+        "NOM_DEP": "HAUTE-GARONNE",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "32",
+        "NOM_DEP": "GERS",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "33",
+        "NOM_DEP": "GIRONDE",
+        "INSEE_OLD_REG": "72",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Aquitaine",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "34",
+        "NOM_DEP": "HERAULT",
+        "INSEE_OLD_REG": "91",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Languedoc-Roussillon",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "35",
+        "NOM_DEP": "ILLE-ET-VILAINE",
+        "INSEE_OLD_REG": "53",
+        "INSEE_REG": "53",
+        "NOM_OLD_REG": "Bretagne",
+        "NOM_REG": "Bretagne"
+    },
+    {
+        "INSEE_DEP": "36",
+        "NOM_DEP": "INDRE",
+        "INSEE_OLD_REG": "24",
+        "INSEE_REG": "24",
+        "NOM_OLD_REG": "Centre",
+        "NOM_REG": "Centre-Val de Loire"
+    },
+    {
+        "INSEE_DEP": "37",
+        "NOM_DEP": "INDRE-ET-LOIRE",
+        "INSEE_OLD_REG": "24",
+        "INSEE_REG": "24",
+        "NOM_OLD_REG": "Centre",
+        "NOM_REG": "Centre-Val de Loire"
+    },
+    {
+        "INSEE_DEP": "38",
+        "NOM_DEP": "ISERE",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "39",
+        "NOM_DEP": "JURA",
+        "INSEE_OLD_REG": "43",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Franche-Comté",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "40",
+        "NOM_DEP": "LANDES",
+        "INSEE_OLD_REG": "72",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Aquitaine",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "41",
+        "NOM_DEP": "LOIR-ET-CHER",
+        "INSEE_OLD_REG": "24",
+        "INSEE_REG": "24",
+        "NOM_OLD_REG": "Centre",
+        "NOM_REG": "Centre-Val de Loire"
+    },
+    {
+        "INSEE_DEP": "42",
+        "NOM_DEP": "LOIRE",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "43",
+        "NOM_DEP": "HAUTE-LOIRE",
+        "INSEE_OLD_REG": "83",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Auvergne",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "44",
+        "NOM_DEP": "LOIRE-ATLANTIQUE",
+        "INSEE_OLD_REG": "52",
+        "INSEE_REG": "52",
+        "NOM_OLD_REG": "Pays de la Loire",
+        "NOM_REG": "Pays de la Loire"
+    },
+    {
+        "INSEE_DEP": "45",
+        "NOM_DEP": "LOIRET",
+        "INSEE_OLD_REG": "24",
+        "INSEE_REG": "24",
+        "NOM_OLD_REG": "Centre",
+        "NOM_REG": "Centre-Val de Loire"
+    },
+    {
+        "INSEE_DEP": "46",
+        "NOM_DEP": "LOT",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "47",
+        "NOM_DEP": "LOT-ET-GARONNE",
+        "INSEE_OLD_REG": "72",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Aquitaine",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "48",
+        "NOM_DEP": "LOZERE",
+        "INSEE_OLD_REG": "91",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Languedoc-Roussillon",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "49",
+        "NOM_DEP": "MAINE-ET-LOIRE",
+        "INSEE_OLD_REG": "52",
+        "INSEE_REG": "52",
+        "NOM_OLD_REG": "Pays de la Loire",
+        "NOM_REG": "Pays de la Loire"
+    },
+    {
+        "INSEE_DEP": "50",
+        "NOM_DEP": "MANCHE",
+        "INSEE_OLD_REG": "25",
+        "INSEE_REG": "28",
+        "NOM_OLD_REG": "Basse-Normandie",
+        "NOM_REG": "Normandie"
+    },
+    {
+        "INSEE_DEP": "51",
+        "NOM_DEP": "MARNE",
+        "INSEE_OLD_REG": "21",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Champagne-Ardenne",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "52",
+        "NOM_DEP": "HAUTE-MARNE",
+        "INSEE_OLD_REG": "21",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Champagne-Ardenne",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "53",
+        "NOM_DEP": "MAYENNE",
+        "INSEE_OLD_REG": "52",
+        "INSEE_REG": "52",
+        "NOM_OLD_REG": "Pays de la Loire",
+        "NOM_REG": "Pays de la Loire"
+    },
+    {
+        "INSEE_DEP": "54",
+        "NOM_DEP": "MEURTHE-ET-MOSELLE",
+        "INSEE_OLD_REG": "41",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Lorraine",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "55",
+        "NOM_DEP": "MEUSE",
+        "INSEE_OLD_REG": "41",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Lorraine",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "56",
+        "NOM_DEP": "MORBIHAN",
+        "INSEE_OLD_REG": "53",
+        "INSEE_REG": "53",
+        "NOM_OLD_REG": "Bretagne",
+        "NOM_REG": "Bretagne"
+    },
+    {
+        "INSEE_DEP": "57",
+        "NOM_DEP": "MOSELLE",
+        "INSEE_OLD_REG": "41",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Lorraine",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "58",
+        "NOM_DEP": "NIEVRE",
+        "INSEE_OLD_REG": "26",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Bourgogne",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "59",
+        "NOM_DEP": "NORD",
+        "INSEE_OLD_REG": "31",
+        "INSEE_REG": "32",
+        "NOM_OLD_REG": "Nord-Pas-de-Calais",
+        "NOM_REG": "Hauts-de-France"
+    },
+    {
+        "INSEE_DEP": "60",
+        "NOM_DEP": "OISE",
+        "INSEE_OLD_REG": "22",
+        "INSEE_REG": "32",
+        "NOM_OLD_REG": "Picardie",
+        "NOM_REG": "Hauts-de-France"
+    },
+    {
+        "INSEE_DEP": "61",
+        "NOM_DEP": "ORNE",
+        "INSEE_OLD_REG": "25",
+        "INSEE_REG": "28",
+        "NOM_OLD_REG": "Basse-Normandie",
+        "NOM_REG": "Normandie"
+    },
+    {
+        "INSEE_DEP": "62",
+        "NOM_DEP": "PAS-DE-CALAIS",
+        "INSEE_OLD_REG": "31",
+        "INSEE_REG": "32",
+        "NOM_OLD_REG": "Nord-Pas-de-Calais",
+        "NOM_REG": "Hauts-de-France"
+    },
+    {
+        "INSEE_DEP": "63",
+        "NOM_DEP": "PUY-DE-DOME",
+        "INSEE_OLD_REG": "83",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Auvergne",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "64",
+        "NOM_DEP": "PYRENEES-ATLANTIQUES",
+        "INSEE_OLD_REG": "72",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Aquitaine",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "65",
+        "NOM_DEP": "HAUTES-PYRENEES",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "66",
+        "NOM_DEP": "PYRENEES-ORIENTALES",
+        "INSEE_OLD_REG": "91",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Languedoc-Roussillon",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "67",
+        "NOM_DEP": "BAS-RHIN",
+        "INSEE_OLD_REG": "42",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Alsace",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "68",
+        "NOM_DEP": "HAUT-RHIN",
+        "INSEE_OLD_REG": "42",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Alsace",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "69",
+        "NOM_DEP": "RHONE",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "70",
+        "NOM_DEP": "HAUTE-SAONE",
+        "INSEE_OLD_REG": "43",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Franche-Comté",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "71",
+        "NOM_DEP": "SAONE-ET-LOIRE",
+        "INSEE_OLD_REG": "26",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Bourgogne",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "72",
+        "NOM_DEP": "SARTHE",
+        "INSEE_OLD_REG": "52",
+        "INSEE_REG": "52",
+        "NOM_OLD_REG": "Pays de la Loire",
+        "NOM_REG": "Pays de la Loire"
+    },
+    {
+        "INSEE_DEP": "73",
+        "NOM_DEP": "SAVOIE",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "74",
+        "NOM_DEP": "HAUTE-SAVOIE",
+        "INSEE_OLD_REG": "82",
+        "INSEE_REG": "84",
+        "NOM_OLD_REG": "Rhône-Alpes",
+        "NOM_REG": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "INSEE_DEP": "75",
+        "NOM_DEP": "PARIS",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "76",
+        "NOM_DEP": "SEINE-MARITIME",
+        "INSEE_OLD_REG": "23",
+        "INSEE_REG": "28",
+        "NOM_OLD_REG": "Haute-Normandie",
+        "NOM_REG": "Normandie"
+    },
+    {
+        "INSEE_DEP": "77",
+        "NOM_DEP": "SEINE-ET-MARNE",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "78",
+        "NOM_DEP": "YVELINES",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "79",
+        "NOM_DEP": "DEUX-SEVRES",
+        "INSEE_OLD_REG": "54",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Poitou-Charentes",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "80",
+        "NOM_DEP": "SOMME",
+        "INSEE_OLD_REG": "22",
+        "INSEE_REG": "32",
+        "NOM_OLD_REG": "Picardie",
+        "NOM_REG": "Hauts-de-France"
+    },
+    {
+        "INSEE_DEP": "81",
+        "NOM_DEP": "TARN",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "82",
+        "NOM_DEP": "TARN-ET-GARONNE",
+        "INSEE_OLD_REG": "73",
+        "INSEE_REG": "76",
+        "NOM_OLD_REG": "Midi-Pyrénées",
+        "NOM_REG": "Occitanie"
+    },
+    {
+        "INSEE_DEP": "83",
+        "NOM_DEP": "VAR",
+        "INSEE_OLD_REG": "93",
+        "INSEE_REG": "93",
+        "NOM_OLD_REG": "Provence-Alpes-Côte d'Azur",
+        "NOM_REG": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "INSEE_DEP": "84",
+        "NOM_DEP": "VAUCLUSE",
+        "INSEE_OLD_REG": "93",
+        "INSEE_REG": "93",
+        "NOM_OLD_REG": "Provence-Alpes-Côte d'Azur",
+        "NOM_REG": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "INSEE_DEP": "85",
+        "NOM_DEP": "VENDEE",
+        "INSEE_OLD_REG": "52",
+        "INSEE_REG": "52",
+        "NOM_OLD_REG": "Pays de la Loire",
+        "NOM_REG": "Pays de la Loire"
+    },
+    {
+        "INSEE_DEP": "86",
+        "NOM_DEP": "VIENNE",
+        "INSEE_OLD_REG": "54",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Poitou-Charentes",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "87",
+        "NOM_DEP": "HAUTE-VIENNE",
+        "INSEE_OLD_REG": "74",
+        "INSEE_REG": "75",
+        "NOM_OLD_REG": "Limousin",
+        "NOM_REG": "Nouvelle-Aquitaine"
+    },
+    {
+        "INSEE_DEP": "88",
+        "NOM_DEP": "VOSGES",
+        "INSEE_OLD_REG": "41",
+        "INSEE_REG": "44",
+        "NOM_OLD_REG": "Lorraine",
+        "NOM_REG": "Grand Est"
+    },
+    {
+        "INSEE_DEP": "89",
+        "NOM_DEP": "YONNE",
+        "INSEE_OLD_REG": "26",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Bourgogne",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "90",
+        "NOM_DEP": "TERRITOIRE-DE-BELFORT",
+        "INSEE_OLD_REG": "43",
+        "INSEE_REG": "27",
+        "NOM_OLD_REG": "Franche-Comté",
+        "NOM_REG": "Bourgogne-Franche-Comté"
+    },
+    {
+        "INSEE_DEP": "91",
+        "NOM_DEP": "ESSONNE",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "92",
+        "NOM_DEP": "HAUTS-DE-SEINE",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "93",
+        "NOM_DEP": "SEINE-SAINT-DENIS",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "94",
+        "NOM_DEP": "VAL-DE-MARNE",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "95",
+        "NOM_DEP": "VAL-D'OISE",
+        "INSEE_OLD_REG": "11",
+        "INSEE_REG": "11",
+        "NOM_OLD_REG": "Ile-de-France",
+        "NOM_REG": "Ile-de-France"
+    },
+    {
+        "INSEE_DEP": "971",
+        "NOM_DEP": "GUADELOUPE",
+        "INSEE_OLD_REG": "01",
+        "INSEE_REG": "01",
+        "NOM_OLD_REG": "Guadeloupe",
+        "NOM_REG": "Guadeloupe"
+    },
+    {
+        "INSEE_DEP": "972",
+        "NOM_DEP": "MARTINIQUE",
+        "INSEE_OLD_REG": "02",
+        "INSEE_REG": "02",
+        "NOM_OLD_REG": "Martinique",
+        "NOM_REG": "Martinique"
+    },
+    {
+        "INSEE_DEP": "973",
+        "NOM_DEP": "GUYANE",
+        "INSEE_OLD_REG": "03",
+        "INSEE_REG": "03",
+        "NOM_OLD_REG": "Guyane",
+        "NOM_REG": "Guyane"
+    },
+    {
+        "INSEE_DEP": "974",
+        "NOM_DEP": "REUNION",
+        "INSEE_OLD_REG": "04",
+        "INSEE_REG": "04",
+        "NOM_OLD_REG": "La Réunion",
+        "NOM_REG": "La Réunion"
+    },
+    {
+        "INSEE_DEP": "976",
+        "NOM_DEP": "MAYOTTE",
+        "INSEE_OLD_REG": "06",
+        "INSEE_REG": "06",
+        "NOM_OLD_REG": "Mayotte",
+        "NOM_REG": "Mayotte"
+    }
+]
